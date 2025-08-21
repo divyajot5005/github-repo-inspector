@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "github-inspector": {
+      "command": "python",
+      "args": [
+        "C:\\Work\\github_repo_inspector\\server.py"
+      ],
+      "env": {
+        "GITHUB_TOKEN": "your_github_token_here_optional"
+      }
+    }
+  }
+}
